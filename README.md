@@ -1,2 +1,1 @@
-# image_classificfication_harsha
-image classification using vgg199
+# DL-Project-For-Beginner
